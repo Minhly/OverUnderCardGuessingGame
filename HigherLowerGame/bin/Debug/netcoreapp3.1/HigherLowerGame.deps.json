@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "HigherLowerGame/1.0.0": {
+        "dependencies": {
+          "SpillekortSpil": "1.0.0"
+        },
+        "runtime": {
+          "HigherLowerGame.dll": {}
+        }
+      },
+      "SpillekortSpil/1.0.0": {
+        "runtime": {
+          "SpillekortSpil.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HigherLowerGame/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SpillekortSpil/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
